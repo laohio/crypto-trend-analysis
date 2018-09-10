@@ -10,4 +10,4 @@ Contributors: <br>
 The inspiration for this analysis (particuarly the APIs from which the data is obtained from) comes from a Medium post:
 https://blog.patricktriest.com/analyzing-cryptocurrencies-python/
 
-<img width="935" alt="screen shot 2018-09-10 at 10 28 53 am" src="https://user-images.githubusercontent.com/16903793/45321066-53840580-b512-11e8-9abd-9ea04128c73c.png">
+<img width="875" alt="screen shot 2018-09-10 at 4 00 15 pm" src="https://user-images.githubusercontent.com/16903793/45321228-bfff0480-b512-11e8-8b4f-79e20913c5d9.png">
